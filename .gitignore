@@ -1,0 +1,4 @@
+# files to ignore
+.terraform
+terraform.tfstate*
+ec2_instance.ini
